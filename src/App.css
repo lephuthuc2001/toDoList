@@ -68,7 +68,7 @@ input[type="checkbox"] {
 
 .filter-wrapper {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 .form {
   display: flex;
